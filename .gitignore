@@ -1,0 +1,4 @@
+/backend/.env
+/backend/node_modules
+/fontend/.env
+/fontend/node_modules
