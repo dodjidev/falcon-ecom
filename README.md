@@ -13,7 +13,7 @@
 ## puis taper `nodemon` et vous voila partie
 
 
-## PS: c'est commandes sont a lancer a la racine du dossier `backend`
+# PS: c'est commandes sont a lancer a la racine du dossier `backend`
 	
 	
 	
